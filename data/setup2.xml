@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_mpSecurity</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>15/12/2021 12:00:00</timeStamp>
+  <nameHash>mpSecurity</nameHash>
+  <contentChangeSets />
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>MPSECURITY_AUTOGEN</Item>
+        <Item>MPSECURITY_UNLOCKS_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+    <Item>
+      <NameHash>GROUP_MAP</NameHash>
+      <ContentChangeSets>
+        <Item>MPSECURITY_MAP_UPDATE</Item>
+        <Item>MPSECURITY_MAP_UPDATE_NAVMESH_ONLY</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <startupScript />
+  <scriptCallstackSize value="0" />
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="38" />
+  <minorOrder value="0" />
+  <isLevelPack value="false" />
+  <dependencyPackHash />
+  <requiredVersion />
+  <subPackCount value="1" />
+</SSetupData>
