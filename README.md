@@ -43,6 +43,8 @@ https://github.com/DurtyFree/durty-cloth-tool/wiki/YMT-game-limit-and-crash-issu
 Vehicles Information
 https://www.ign.com/wikis/gta-5/New_'The_Contract'_Vehicles
 
+known "bug" sounds need to be adjusted properly 
+working on it. hope soon realese the update. if someone can fix and make it better please do. 
 
 thank you.
 
